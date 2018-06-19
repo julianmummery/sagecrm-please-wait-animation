@@ -25,6 +25,14 @@ I thought that was not a very smooth user experience and must cause some fraustr
  3)  In order to make the changes take effect, all users must logout of Sage CRM and then log back in again
  
      **Please note: -** By making changes to the JavaScript file and if it is already running in a LIVE environment. Users may also have to clear their browser **cache**
+     
+
+# TODO
+
+Currently the **'Summary Report'** button will trigger the animated spinner but does **not** automatically dismiss it. This has to be done manually by clicking on the **dismiss** link underneath the spinner. You can adapt the code yourself if you like to cater for this. I will aim to resolve this in a future release. See **Image #2** below which shows where this area of the system is located: -
+     
+**<h5>Image #2</h5>**     
+<img src="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim-Summary-Report.png">
 
 <hr />
 
