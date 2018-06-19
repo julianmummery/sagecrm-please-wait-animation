@@ -1,11 +1,11 @@
-# Processing, PLease Wait Message with Animated Spinner
+# Processing, Please Wait Message with Animated Spinner
 Implements a please wait message with dismiss link and animation to Sage CRM 7.3+
 
 Sage CRM does not very often let your users know that it is actually processing data. When there is nothing visually displayed the only way of telling is to enable the status bar in the browser and then hover your mouse pointer over it. When busy an hour glass will appear next to the mouse pointer. This indicates that the system is still processing data and that your browser has not frozen.
 
 I thought that was not a very smooth user experience and must cause some fraustration too. So, I developed this animated spinner which can be implemented into your Sage CRM system easily.
 
-**Please Note: -**  Due to their being multitudes of different upgrades and patches out there. It would not be possible for me to test this code out on every combination. I have tested this on Sage CRM 7.3+ though. If it does have adverse side effects then all you have to do is reverse the implements process below. 
+**Please Note: -**  Due to their being multitudes of different upgrades and patches out there. It would not be possible for me to test this code out on every combination. I have tested this on Sage CRM 7.3+ though. If it does have adverse side effects then all you have to do is remove the file from the **/js/custom/** directory. 
 
 <img src="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.png">
 
