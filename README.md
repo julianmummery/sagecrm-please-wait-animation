@@ -9,6 +9,10 @@ I thought that was not a very smooth user experience and must cause some fraustr
 
 <img src="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.png">
 
+<video width="480" height="320" controls="controls">
+  <source src="SageCRM-Loading-Anim.mp4" type="video/mp4">
+</video>
+
 
 # How to Implement
 
