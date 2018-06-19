@@ -9,7 +9,7 @@ I thought that was not a very smooth user experience and must cause some fraustr
 
 <img src="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.png">
 
-<img src="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4">
+<a href="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim.mp4?raw=true">Download the 51 second MP4 Video</a>
 
 # How to Implement
 
