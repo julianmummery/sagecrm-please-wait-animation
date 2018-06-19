@@ -17,7 +17,7 @@ I thought that was not a very smooth user experience and must cause some fraustr
 
 2)  Download the two JavaScript files and also the entire isloading directory and place them where shown in **Image #1** below: -
 
-    **<h6>Image #1</h6>**
+    <h6>Image #1</h6>
     <img src="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim-Files.png">
 
     **Please Note: -** The filenames are prefixed with the letter **'z'** to ensure that when Sage CRM loads it's libraries alphabetically it will get to our custom .JS files last. When extending any platform you would be wise to treat the core systems files as a dependency, so by loading it at the end we mitigate any risk of browser loading syntax errors!  
@@ -31,7 +31,7 @@ I thought that was not a very smooth user experience and must cause some fraustr
 
 Currently the **'Summary Report'** button will trigger the animated spinner but does **not** automatically dismiss it. This has to be done manually by clicking on the **dismiss** link underneath the spinner. You can adapt the code yourself if you like to cater for this. I will aim to resolve this in a future release. See **Image #2** below which shows one area of the system where the **'Summary Report'** is located: -
      
-**<h6>Image #2</h6>**     
+<h6>Image #2</h6>   
 <img src="https://github.com/julianmummery/sagecrm-please-wait-animation/blob/master/SageCRM-Loading-Anim-Summary-Report.png">
 
 <hr />
